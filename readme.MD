@@ -25,3 +25,4 @@ CHANNEL_ID=
 
 # Create Executable
 ```python setup.py build```
+Скопировать файл .env в папку с исполняемым файлом
