@@ -1,5 +1,3 @@
-import asyncio
-
 from telethon import TelegramClient
 import sys
 

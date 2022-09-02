@@ -22,3 +22,6 @@ CHANNEL_ID=
 
 # Run Script
 ```python main.py message```
+
+# Create Executable
+```python setup.py build```

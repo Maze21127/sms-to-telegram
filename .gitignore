@@ -1,0 +1,6 @@
+/build/
+*.session
+*.log
+/venv/
+*.env
+.env
