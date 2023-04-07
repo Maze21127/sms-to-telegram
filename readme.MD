@@ -2,10 +2,10 @@
 1. Установить Python
 2. Создать файл .env
 ```
-API_ID=
-API_HASH=
-BOT_TOKEN=
-CHANNEL_ID=
+API_ID=22056986
+API_HASH=621b3f64ef181561f5e8382657a23f0f
+BOT_TOKEN=5861331167:AAHKlWgsExgAuV31VwBxs8xbqB7-5jh2KiE
+CHANNEL_ID=5779700223
 ```
 3. Создать приложение на сайте https://my.telegram.org/
 4. Вставить API_ID и APi_HASH в .env
